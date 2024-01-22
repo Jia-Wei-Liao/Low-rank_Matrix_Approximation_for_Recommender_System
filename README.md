@@ -1,4 +1,4 @@
-# Low-rank Matrix Approximation for Recommender System
+# softImpute-ALS
 
 This repository is a MATLAB implementation of "Matrix Completion and Low-Rank SVD via Fast Alternating Least Squares".  
 
